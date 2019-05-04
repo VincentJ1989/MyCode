@@ -3,6 +3,7 @@ package t1;
 import java.util.Stack;
 
 /**
+ * 题目：带getMin()的栈结构
  * 思路：双栈，一个正常保存数据，一个用来存储最小值（当前数据栈中的最小值，有重复的）。
  *
  * @author VincentJ
